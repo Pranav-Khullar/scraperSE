@@ -1,0 +1,38 @@
+{
+  "name": "Yash Kumar",
+  "experiences": [
+    { "title": "Teaching Assistant", "company": "Coding Ninjas India" },
+    { "title": "Company Name Microsoft Student Chapter", "company": null },
+    {
+      "title": "Member (Tech Team)",
+      "company": "Student Alumni Interaction Cell"
+    },
+    { "title": "App Developer", "company": "Rutri India" }
+  ],
+  "schools": [
+    "Thapar Institute of Engineering & Technology",
+    "Ryan International School, Ludhiana"
+  ],
+  "skills": [
+    "C++",
+    "Marketing",
+    "Python (Programming Language)",
+    "Data Science",
+    "Machine Learning",
+    "Android Development",
+    "Higher Education",
+    "Blockchain",
+    "Keras",
+    "Java",
+    "Oracle Database",
+    "Flutter",
+    "Solidity",
+    "Smart Contracts",
+    "Firebase",
+    "Microsoft Office",
+    "SQL",
+    "Android",
+    "Databases",
+    "Programming Languages"
+  ]
+}

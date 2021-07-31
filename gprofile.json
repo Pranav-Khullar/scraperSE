@@ -1,0 +1,1232 @@
+{
+  "meta": {
+    "viewport": "width=device-width",
+    "description": "Lead Data Scientist.  Know more\r\nhttps://kgptalkie.com - laxmimerit",
+    "apple-itunes-app": "app-id=1477376905",
+    "twitter:image:src": "https://avatars2.githubusercontent.com/u/16714612?s=400&u=60b8cc01ad4c54faa115a9b4a34a97143cacf0ce&v=4",
+    "twitter:site": "@github",
+    "twitter:card": "summary",
+    "twitter:title": "laxmimerit - Overview",
+    "twitter:description": "Lead Data Scientist.  Know more\r\nhttps://kgptalkie.com - laxmimerit",
+    "request-id": "32B7:11A1:2771EE:308AF4:5FB7FCB3",
+    "html-safe-nonce": "f63c9736f81fd5f0b721eea713e21a4c73d664ecd9ae77c9a1a6a0d455eecf72",
+    "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzMkI3OjExQTE6Mjc3MUVFOjMwOEFGNDo1RkI3RkNCMyIsInZpc2l0b3JfaWQiOiI2NjIxNzg1NzczMzE1MTg2NDQiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGgtMSJ9",
+    "visitor-hmac": "5fab2b26a69fcfe7d0bd178c8369cac388c4bfddc029e114df7fad0e791705bd",
+    "cookie-consent-required": "false",
+    "google-site-verification": "GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc",
+    "octolytics-host": "collector.githubapp.com",
+    "octolytics-app-id": "github",
+    "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+    "analytics-location": "/<user-name>",
+    "hostname": "github.com",
+    "expected-hostname": "github.com",
+    "enabled-features": "MARKETPLACE_PENDING_INSTALLATIONS",
+    "browser-stats-url": "https://api.github.com/_private/browser/stats",
+    "browser-errors-url": "https://api.github.com/_private/browser/errors",
+    "browser-optimizely-client-errors-url": "https://api.github.com/_private/browser/optimizely_client/errors",
+    "theme-color": "#1e2327"
+  },
+  "microdata": [
+    {
+      "id": 1,
+      "type": "http://schema.org/Person",
+      "props": {
+        "image": "https://avatars2.githubusercontent.com/u/16714612?s=400&u=60b8cc01ad4c54faa115a9b4a34a97143cacf0ce&v=4",
+        "name": "Laxmi Kant",
+        "additionalName": "laxmimerit",
+        "worksFor": "          KGP Talkie",
+        "homeLocation": "        Bangalore",
+        "url": "      www.youtube.com/kgptalkie",
+        "twitter": "      @laxmimerit"
+      },
+      "path": [
+        "items",
+        "0",
+        "type"
+      ],
+      "length": 7,
+      "level": 3
+    },
+    {
+      "id": 2,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Latest Covid-19 Dataset | Full Course Available Here        ",
+        "name": "/laxmimerit/Covid-19-Preprocessed-Dataset",
+        "codeRepository": "/laxmimerit/Covid-19-Preprocessed-Dataset"
+      },
+      "path": [
+        "items",
+        "1",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 3,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          This Repository includes datasets of Feature Engineering and Feature Selection for Machine Learning Course        ",
+        "name": "/laxmimerit/feature-engineering-for-machine-learning-dataset",
+        "codeRepository": "/laxmimerit/feature-engineering-for-machine-learning-dataset"
+      },
+      "path": [
+        "items",
+        "2",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 4,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          twitter disaster prediction dataset        ",
+        "name": "/laxmimerit/twitter-disaster-prediction-dataset",
+        "codeRepository": "/laxmimerit/twitter-disaster-prediction-dataset"
+      },
+      "path": [
+        "items",
+        "3",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 5,
+      "type": "http://schema.org/Code",
+      "props": {
+        "name": "/laxmimerit/preprocess_kgptalkie",
+        "codeRepository": "/laxmimerit/preprocess_kgptalkie",
+        "programmingLanguage": "Python"
+      },
+      "path": [
+        "items",
+        "4",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 6,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Connect AWS RDS with Python. You can run regular MySQL queries to access RDS.         ",
+        "name": "/laxmimerit/how-to-connect-AWS-RDS-with-Python",
+        "codeRepository": "/laxmimerit/how-to-connect-AWS-RDS-with-Python",
+        "programmingLanguage": "Jupyter Notebook"
+      },
+      "path": [
+        "items",
+        "5",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 7,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Amazon Reviews with Star Ratings: 1 Star- hate it, 5 Star - loved it        ",
+        "name": "/laxmimerit/Amazon-Musical-Reviews-Rating-Dataset",
+        "codeRepository": "/laxmimerit/Amazon-Musical-Reviews-Rating-Dataset"
+      },
+      "path": [
+        "items",
+        "6",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 8,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          This repository contains the tweet data of suicidal intention and no intention data        ",
+        "name": "/laxmimerit/twitter-suicidal-intention-dataset",
+        "codeRepository": "/laxmimerit/twitter-suicidal-intention-dataset"
+      },
+      "path": [
+        "items",
+        "7",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 9,
+      "type": "http://schema.org/Code",
+      "props": {
+        "name": "/laxmimerit/poetry-data",
+        "codeRepository": "/laxmimerit/poetry-data"
+      },
+      "path": [
+        "items",
+        "8",
+        "type"
+      ],
+      "length": 2,
+      "level": 3
+    },
+    {
+      "id": 10,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Find all major CSV Files for data processing        ",
+        "name": "/laxmimerit/All-CSV-ML-Data-Files-Download",
+        "codeRepository": "/laxmimerit/All-CSV-ML-Data-Files-Download"
+      },
+      "path": [
+        "items",
+        "9",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 11,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Hate Speech Twitter Dataset        ",
+        "name": "/laxmimerit/hate_speech_dataset",
+        "codeRepository": "/laxmimerit/hate_speech_dataset"
+      },
+      "path": [
+        "items",
+        "10",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 12,
+      "type": "http://schema.org/Code",
+      "props": {
+        "name": "/laxmimerit/emotion-recognition-text-dataset",
+        "codeRepository": "/laxmimerit/emotion-recognition-text-dataset",
+        "programmingLanguage": "Jupyter Notebook"
+      },
+      "path": [
+        "items",
+        "11",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 13,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Here is sample code of real time accelerometer data plot on android mobile using mpandroidchart library.        ",
+        "name": "/laxmimerit/Real-Time-Accelerometer-Data-Plot",
+        "codeRepository": "/laxmimerit/Real-Time-Accelerometer-Data-Plot",
+        "programmingLanguage": "Java"
+      },
+      "path": [
+        "items",
+        "12",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 14,
+      "type": "http://schema.org/Code",
+      "props": {
+        "name": "/laxmimerit/twitter-data",
+        "codeRepository": "/laxmimerit/twitter-data"
+      },
+      "path": [
+        "items",
+        "13",
+        "type"
+      ],
+      "length": 2,
+      "level": 3
+    },
+    {
+      "id": 15,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Docker image with Uvicorn managed by Gunicorn for high-performance web applications in Python 3.6 with performance auto-tuning. Optionally with Alpine Linux.        ",
+        "name": "/laxmimerit/uvicorn-gunicorn-docker",
+        "codeRepository": "/laxmimerit/uvicorn-gunicorn-docker",
+        "programmingLanguage": "Python"
+      },
+      "path": [
+        "items",
+        "14",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 16,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Set of Jupyter notebooks demonstrating Learning to Rank integrated with Solr and Elasticsearch        ",
+        "name": "/laxmimerit/hello-ltr",
+        "codeRepository": "/laxmimerit/hello-ltr",
+        "programmingLanguage": "Jupyter Notebook"
+      },
+      "path": [
+        "items",
+        "15",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 17,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch        ",
+        "name": "/laxmimerit/elasticsearch-learning-to-rank",
+        "codeRepository": "/laxmimerit/elasticsearch-learning-to-rank",
+        "programmingLanguage": "Java"
+      },
+      "path": [
+        "items",
+        "16",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 18,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          A collection of machine learning examples and tutorials.        ",
+        "name": "/laxmimerit/machine_learning_examples",
+        "codeRepository": "/laxmimerit/machine_learning_examples",
+        "programmingLanguage": "Python"
+      },
+      "path": [
+        "items",
+        "17",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 19,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Toxic Comment Dataset        ",
+        "name": "/laxmimerit/Toxic-Comment",
+        "codeRepository": "/laxmimerit/Toxic-Comment"
+      },
+      "path": [
+        "items",
+        "18",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 20,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          ktrain is a Python library that makes deep learning and AI more accessible and easier to apply        ",
+        "name": "/laxmimerit/ktrain",
+        "codeRepository": "/laxmimerit/ktrain",
+        "programmingLanguage": "Jupyter Notebook"
+      },
+      "path": [
+        "items",
+        "19",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 21,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Data Files for Machine Learning        ",
+        "name": "/laxmimerit/Data-Files-for-Machine-Learning",
+        "codeRepository": "/laxmimerit/Data-Files-for-Machine-Learning"
+      },
+      "path": [
+        "items",
+        "20",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 22,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Image Dataset for Age Prediction        ",
+        "name": "/laxmimerit/Image-Dataset-for-Age-Prediction",
+        "codeRepository": "/laxmimerit/Image-Dataset-for-Age-Prediction"
+      },
+      "path": [
+        "items",
+        "21",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 23,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          IMDB Movie Reviews Large Dataset - 50k Reviews        ",
+        "name": "/laxmimerit/IMDB-Movie-Reviews-Large-Dataset-50k",
+        "codeRepository": "/laxmimerit/IMDB-Movie-Reviews-Large-Dataset-50k"
+      },
+      "path": [
+        "items",
+        "22",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 24,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Hi, This is in regard to the code files of all videos at KGP Talkie YouTube Channel. I request you to please get enrolled yourself in my Udemy course and show your support and love to KGP Talkie. A…        ",
+        "name": "/laxmimerit/Important-Announcement-on-ML",
+        "codeRepository": "/laxmimerit/Important-Announcement-on-ML"
+      },
+      "path": [
+        "items",
+        "23",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 25,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 &lt; Tensorflow &lt; 2.0        ",
+        "name": "/laxmimerit/NLP-Models-Tensorflow",
+        "codeRepository": "/laxmimerit/NLP-Models-Tensorflow",
+        "programmingLanguage": "Jupyter Notebook"
+      },
+      "path": [
+        "items",
+        "24",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 26,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Resume and CV Summarization and Paring with Spacy in Python        ",
+        "name": "/laxmimerit/Resume-and-CV-Summarization-and-Parsing-with-Spacy-in-Python",
+        "codeRepository": "/laxmimerit/Resume-and-CV-Summarization-and-Parsing-with-Spacy-in-Python"
+      },
+      "path": [
+        "items",
+        "25",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 27,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Companion repo to a course on Udemy.com        ",
+        "name": "/laxmimerit/DockerCasts",
+        "codeRepository": "/laxmimerit/DockerCasts",
+        "programmingLanguage": "JavaScript"
+      },
+      "path": [
+        "items",
+        "26",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 28,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Low-level client for Elasticsearch Learning to Rank plugin.        ",
+        "name": "/laxmimerit/elasticsearch-ltr-py",
+        "codeRepository": "/laxmimerit/elasticsearch-ltr-py",
+        "programmingLanguage": "Python"
+      },
+      "path": [
+        "items",
+        "27",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 29,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Text independent speaker recognition algorithm based on CNN         ",
+        "name": "/laxmimerit/speaker-recognition",
+        "codeRepository": "/laxmimerit/speaker-recognition",
+        "programmingLanguage": "Jupyter Notebook"
+      },
+      "path": [
+        "items",
+        "28",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    },
+    {
+      "id": 30,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          Docker Cheat Sheet        ",
+        "name": "/laxmimerit/docker-cheat-sheet",
+        "codeRepository": "/laxmimerit/docker-cheat-sheet"
+      },
+      "path": [
+        "items",
+        "29",
+        "type"
+      ],
+      "length": 3,
+      "level": 3
+    },
+    {
+      "id": 31,
+      "type": "http://schema.org/Code",
+      "props": {
+        "description": "          An integrated shell for working with the AWS CLI.        ",
+        "name": "/laxmimerit/aws-shell",
+        "codeRepository": "/laxmimerit/aws-shell",
+        "programmingLanguage": "Python"
+      },
+      "path": [
+        "items",
+        "30",
+        "type"
+      ],
+      "length": 4,
+      "level": 3
+    }
+  ],
+  "microformat": [
+    {
+      "id": 1,
+      "type": "h-card",
+      "props": {
+        "name": "Laxmi Kant",
+        "nickname": "laxmimerit",
+        "note": "Lead Data Scientist.  Know morehttps://kgptalkie.com",
+        "org": "KGP Talkie",
+        "label": "Bangalore"
+      },
+      "path": [
+        "0",
+        "type"
+      ],
+      "length": 6,
+      "level": 2
+    }
+  ],
+  "tags": {
+    "title": "laxmimerit (Laxmi Kant) / Repositories · GitHub",
+    "headers": {
+      "h1": [
+        "      Laxmi Kant      laxmimerit    ",
+        "Block or report laxmimerit"
+      ],
+      "h2": [
+        "Highlights"
+      ],
+      "h3": [
+        "Create your own GitHub profile",
+        "                Covid-19-Preprocessed-Dataset              ",
+        "                feature-engineering-for-machine-learning-dataset              ",
+        "                twitter-disaster-prediction-dataset              ",
+        "                preprocess_kgptalkie              ",
+        "                how-to-connect-AWS-RDS-with-Python              ",
+        "                Amazon-Musical-Reviews-Rating-Dataset              ",
+        "                twitter-suicidal-intention-dataset              ",
+        "                poetry-data              ",
+        "                All-CSV-ML-Data-Files-Download              ",
+        "                hate_speech_dataset              ",
+        "                emotion-recognition-text-dataset              ",
+        "                Real-Time-Accelerometer-Data-Plot              ",
+        "                twitter-data              ",
+        "                uvicorn-gunicorn-docker              ",
+        "                hello-ltr              ",
+        "                elasticsearch-learning-to-rank              ",
+        "                machine_learning_examples              ",
+        "                Toxic-Comment              ",
+        "                ktrain              ",
+        "                Data-Files-for-Machine-Learning              ",
+        "                Image-Dataset-for-Age-Prediction              ",
+        "                IMDB-Movie-Reviews-Large-Dataset-50k              ",
+        "                Important-Announcement-on-ML              ",
+        "                NLP-Models-Tensorflow              ",
+        "                Resume-and-CV-Summarization-and-Parsing-with-Spacy-in-Python              ",
+        "                DockerCasts              ",
+        "                elasticsearch-ltr-py              ",
+        "                speaker-recognition              ",
+        "                docker-cheat-sheet              ",
+        "                aws-shell              "
+      ],
+      "h4": [
+        "Learn & contribute",
+        "Connect with others"
+      ],
+      "h5": [
+        "Essential cookies",
+        "Always active",
+        "Analytics cookies"
+      ],
+      "h6": []
+    },
+    "images": [
+      "https://github.githubassets.com/images/search-key-slash.svg",
+      "https://avatars2.githubusercontent.com/u/16714612?s=88&u=60b8cc01ad4c54faa115a9b4a34a97143cacf0ce&v=4",
+      "https://avatars2.githubusercontent.com/u/16714612?s=88&u=60b8cc01ad4c54faa115a9b4a34a97143cacf0ce&v=4",
+      "https://avatars2.githubusercontent.com/u/16714612?s=460&u=60b8cc01ad4c54faa115a9b4a34a97143cacf0ce&v=4"
+    ],
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "#start-of-content"
+      },
+      {
+        "text": "",
+        "href": "https://github.com/"
+      },
+      {
+        "text": "Sign up",
+        "href": "/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header"
+      },
+      {
+        "text": "Features →",
+        "href": "/features"
+      },
+      {
+        "text": "Code review",
+        "href": "/features/code-review/"
+      },
+      {
+        "text": "Project management",
+        "href": "/features/project-management/"
+      },
+      {
+        "text": "Integrations",
+        "href": "/features/integrations"
+      },
+      {
+        "text": "Actions",
+        "href": "/features/actions"
+      },
+      {
+        "text": "Packages",
+        "href": "/features/packages"
+      },
+      {
+        "text": "Security",
+        "href": "/features/security"
+      },
+      {
+        "text": "Team management",
+        "href": "/features#team-management"
+      },
+      {
+        "text": "Hosting",
+        "href": "/features#hosting"
+      },
+      {
+        "text": "Mobile",
+        "href": "/mobile"
+      },
+      {
+        "text": "Customer stories →",
+        "href": "/customer-stories"
+      },
+      {
+        "text": "Security →",
+        "href": "/security"
+      },
+      {
+        "text": "Team",
+        "href": "/team"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/enterprise"
+      },
+      {
+        "text": "Explore GitHub →",
+        "href": "/explore"
+      },
+      {
+        "text": "Topics",
+        "href": "/topics"
+      },
+      {
+        "text": "Collections",
+        "href": "/collections"
+      },
+      {
+        "text": "Trending",
+        "href": "/trending"
+      },
+      {
+        "text": "Learning Lab",
+        "href": "https://lab.github.com/"
+      },
+      {
+        "text": "Open source guides",
+        "href": "https://opensource.guide"
+      },
+      {
+        "text": "Events",
+        "href": "https://github.com/events"
+      },
+      {
+        "text": "Community forum",
+        "href": "https://github.community"
+      },
+      {
+        "text": "GitHub Education",
+        "href": "https://education.github.com"
+      },
+      {
+        "text": "GitHub Stars program",
+        "href": "https://stars.github.com"
+      },
+      {
+        "text": "Marketplace",
+        "href": "/marketplace"
+      },
+      {
+        "text": "Plans →",
+        "href": "/pricing"
+      },
+      {
+        "text": "Compare plans",
+        "href": "/pricing#feature-comparison"
+      },
+      {
+        "text": "Contact Sales",
+        "href": "https://enterprise.github.com/contact"
+      },
+      {
+        "text": "Nonprofit →",
+        "href": "/nonprofit"
+      },
+      {
+        "text": "Education →",
+        "href": "https://education.github.com"
+      },
+      {
+        "text": "Sign in",
+        "href": "/login?return_to=%2Flaxmimerit%3Ftab%3Drepositories"
+      },
+      {
+        "text": "Sign up",
+        "href": "/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header"
+      },
+      {
+        "text": "Follow",
+        "href": "/login?return_to=%2Flaxmimerit%3Ftab%3Drepositories"
+      },
+      {
+        "text": "Overview",
+        "href": "/laxmimerit"
+      },
+      {
+        "text": "Repositories\n      43",
+        "href": "/laxmimerit?tab=repositories"
+      },
+      {
+        "text": "Projects\n      0",
+        "href": "/laxmimerit?tab=projects"
+      },
+      {
+        "text": "Packages",
+        "href": "/laxmimerit?tab=packages"
+      },
+      {
+        "text": "Follow",
+        "href": "/login?return_to=%2Flaxmimerit%3Ftab%3Drepositories"
+      },
+      {
+        "text": "",
+        "href": "https://avatars2.githubusercontent.com/u/16714612?s=400&u=60b8cc01ad4c54faa115a9b4a34a97143cacf0ce&v=4"
+      },
+      {
+        "text": "Follow",
+        "href": "/login?return_to=%2Flaxmimerit%3Ftab%3Drepositories"
+      },
+      {
+        "text": "blocking users",
+        "href": "https://docs.github.com/en/articles/blocking-a-user-from-your-personal-account"
+      },
+      {
+        "text": "reporting abuse",
+        "href": "https://docs.github.com/en/articles/reporting-abuse-or-spam"
+      },
+      {
+        "text": "Report abuse",
+        "href": "/contact/report-abuse?report=laxmimerit+%28user%29"
+      },
+      {
+        "text": "642\n          followers",
+        "href": "/laxmimerit?tab=followers"
+      },
+      {
+        "text": "0\n          following",
+        "href": "/laxmimerit?tab=following"
+      },
+      {
+        "text": "2",
+        "href": "/laxmimerit?tab=stars"
+      },
+      {
+        "text": "www.youtube.com/kgptalkie",
+        "href": "http://www.youtube.com/kgptalkie"
+      },
+      {
+        "text": "@laxmimerit",
+        "href": "https://twitter.com/laxmimerit"
+      },
+      {
+        "text": "Overview",
+        "href": "/laxmimerit"
+      },
+      {
+        "text": "Repositories\n      43",
+        "href": "/laxmimerit?tab=repositories"
+      },
+      {
+        "text": "Projects\n      0",
+        "href": "/laxmimerit?tab=projects"
+      },
+      {
+        "text": "Packages",
+        "href": "/laxmimerit?tab=packages"
+      },
+      {
+        "text": "Sign up",
+        "href": "/join?source=prompt-users-profile"
+      },
+      {
+        "text": "Covid-19-Preprocessed-Dataset",
+        "href": "/laxmimerit/Covid-19-Preprocessed-Dataset"
+      },
+      {
+        "text": "5",
+        "href": "/laxmimerit/Covid-19-Preprocessed-Dataset/stargazers"
+      },
+      {
+        "text": "12",
+        "href": "/laxmimerit/Covid-19-Preprocessed-Dataset/network/members"
+      },
+      {
+        "text": "feature-engineering-for-machine-learning-dataset",
+        "href": "/laxmimerit/feature-engineering-for-machine-learning-dataset"
+      },
+      {
+        "text": "2",
+        "href": "/laxmimerit/feature-engineering-for-machine-learning-dataset/stargazers"
+      },
+      {
+        "text": "twitter-disaster-prediction-dataset",
+        "href": "/laxmimerit/twitter-disaster-prediction-dataset"
+      },
+      {
+        "text": "preprocess_kgptalkie",
+        "href": "/laxmimerit/preprocess_kgptalkie"
+      },
+      {
+        "text": "2",
+        "href": "/laxmimerit/preprocess_kgptalkie/stargazers"
+      },
+      {
+        "text": "5",
+        "href": "/laxmimerit/preprocess_kgptalkie/network/members"
+      },
+      {
+        "text": "how-to-connect-AWS-RDS-with-Python",
+        "href": "/laxmimerit/how-to-connect-AWS-RDS-with-Python"
+      },
+      {
+        "text": "1",
+        "href": "/laxmimerit/how-to-connect-AWS-RDS-with-Python/network/members"
+      },
+      {
+        "text": "Amazon-Musical-Reviews-Rating-Dataset",
+        "href": "/laxmimerit/Amazon-Musical-Reviews-Rating-Dataset"
+      },
+      {
+        "text": "4",
+        "href": "/laxmimerit/Amazon-Musical-Reviews-Rating-Dataset/stargazers"
+      },
+      {
+        "text": "twitter-suicidal-intention-dataset",
+        "href": "/laxmimerit/twitter-suicidal-intention-dataset"
+      },
+      {
+        "text": "poetry-data",
+        "href": "/laxmimerit/poetry-data"
+      },
+      {
+        "text": "All-CSV-ML-Data-Files-Download",
+        "href": "/laxmimerit/All-CSV-ML-Data-Files-Download"
+      },
+      {
+        "text": "9",
+        "href": "/laxmimerit/All-CSV-ML-Data-Files-Download/stargazers"
+      },
+      {
+        "text": "26",
+        "href": "/laxmimerit/All-CSV-ML-Data-Files-Download/network/members"
+      },
+      {
+        "text": "hate_speech_dataset",
+        "href": "/laxmimerit/hate_speech_dataset"
+      },
+      {
+        "text": "1",
+        "href": "/laxmimerit/hate_speech_dataset/stargazers"
+      },
+      {
+        "text": "1",
+        "href": "/laxmimerit/hate_speech_dataset/network/members"
+      },
+      {
+        "text": "emotion-recognition-text-dataset",
+        "href": "/laxmimerit/emotion-recognition-text-dataset"
+      },
+      {
+        "text": "1",
+        "href": "/laxmimerit/emotion-recognition-text-dataset/stargazers"
+      },
+      {
+        "text": "Real-Time-Accelerometer-Data-Plot",
+        "href": "/laxmimerit/Real-Time-Accelerometer-Data-Plot"
+      },
+      {
+        "text": "6",
+        "href": "/laxmimerit/Real-Time-Accelerometer-Data-Plot/stargazers"
+      },
+      {
+        "text": "5",
+        "href": "/laxmimerit/Real-Time-Accelerometer-Data-Plot/network/members"
+      },
+      {
+        "text": "twitter-data",
+        "href": "/laxmimerit/twitter-data"
+      },
+      {
+        "text": "1",
+        "href": "/laxmimerit/twitter-data/stargazers"
+      },
+      {
+        "text": "2",
+        "href": "/laxmimerit/twitter-data/network/members"
+      },
+      {
+        "text": "uvicorn-gunicorn-docker",
+        "href": "/laxmimerit/uvicorn-gunicorn-docker"
+      },
+      {
+        "text": "tiangolo/uvicorn-gunicorn-docker",
+        "href": "/tiangolo/uvicorn-gunicorn-docker"
+      },
+      {
+        "text": "84",
+        "href": "/laxmimerit/uvicorn-gunicorn-docker/network/members"
+      },
+      {
+        "text": "hello-ltr",
+        "href": "/laxmimerit/hello-ltr"
+      },
+      {
+        "text": "o19s/hello-ltr",
+        "href": "/o19s/hello-ltr"
+      },
+      {
+        "text": "18",
+        "href": "/laxmimerit/hello-ltr/network/members"
+      },
+      {
+        "text": "elasticsearch-learning-to-rank",
+        "href": "/laxmimerit/elasticsearch-learning-to-rank"
+      },
+      {
+        "text": "o19s/elasticsearch-learning-to-rank",
+        "href": "/o19s/elasticsearch-learning-to-rank"
+      },
+      {
+        "text": "281",
+        "href": "/laxmimerit/elasticsearch-learning-to-rank/network/members"
+      },
+      {
+        "text": "machine_learning_examples",
+        "href": "/laxmimerit/machine_learning_examples"
+      },
+      {
+        "text": "lazyprogrammer/machine_learning_examples",
+        "href": "/lazyprogrammer/machine_learning_examples"
+      },
+      {
+        "text": "2",
+        "href": "/laxmimerit/machine_learning_examples/stargazers"
+      },
+      {
+        "text": "5,035",
+        "href": "/laxmimerit/machine_learning_examples/network/members"
+      },
+      {
+        "text": "Toxic-Comment",
+        "href": "/laxmimerit/Toxic-Comment"
+      },
+      {
+        "text": "ktrain",
+        "href": "/laxmimerit/ktrain"
+      },
+      {
+        "text": "amaiya/ktrain",
+        "href": "/amaiya/ktrain"
+      },
+      {
+        "text": "1",
+        "href": "/laxmimerit/ktrain/stargazers"
+      },
+      {
+        "text": "162",
+        "href": "/laxmimerit/ktrain/network/members"
+      },
+      {
+        "text": "Data-Files-for-Machine-Learning",
+        "href": "/laxmimerit/Data-Files-for-Machine-Learning"
+      },
+      {
+        "text": "Image-Dataset-for-Age-Prediction",
+        "href": "/laxmimerit/Image-Dataset-for-Age-Prediction"
+      },
+      {
+        "text": "2",
+        "href": "/laxmimerit/Image-Dataset-for-Age-Prediction/network/members"
+      },
+      {
+        "text": "IMDB-Movie-Reviews-Large-Dataset-50k",
+        "href": "/laxmimerit/IMDB-Movie-Reviews-Large-Dataset-50k"
+      },
+      {
+        "text": "2",
+        "href": "/laxmimerit/IMDB-Movie-Reviews-Large-Dataset-50k/stargazers"
+      },
+      {
+        "text": "2",
+        "href": "/laxmimerit/IMDB-Movie-Reviews-Large-Dataset-50k/network/members"
+      },
+      {
+        "text": "Important-Announcement-on-ML",
+        "href": "/laxmimerit/Important-Announcement-on-ML"
+      },
+      {
+        "text": "NLP-Models-Tensorflow",
+        "href": "/laxmimerit/NLP-Models-Tensorflow"
+      },
+      {
+        "text": "huseinzol05/NLP-Models-Tensorflow",
+        "href": "/huseinzol05/NLP-Models-Tensorflow"
+      },
+      {
+        "text": "4",
+        "href": "/laxmimerit/NLP-Models-Tensorflow/stargazers"
+      },
+      {
+        "text": "629",
+        "href": "/laxmimerit/NLP-Models-Tensorflow/network/members"
+      },
+      {
+        "text": "Resume-and-CV-Summarization-and-Parsing-with-Spacy-in-Python",
+        "href": "/laxmimerit/Resume-and-CV-Summarization-and-Parsing-with-Spacy-in-Python"
+      },
+      {
+        "text": "22",
+        "href": "/laxmimerit/Resume-and-CV-Summarization-and-Parsing-with-Spacy-in-Python/stargazers"
+      },
+      {
+        "text": "16",
+        "href": "/laxmimerit/Resume-and-CV-Summarization-and-Parsing-with-Spacy-in-Python/network/members"
+      },
+      {
+        "text": "DockerCasts",
+        "href": "/laxmimerit/DockerCasts"
+      },
+      {
+        "text": "StephenGrider/DockerCasts",
+        "href": "/StephenGrider/DockerCasts"
+      },
+      {
+        "text": "950",
+        "href": "/laxmimerit/DockerCasts/network/members"
+      },
+      {
+        "text": "elasticsearch-ltr-py",
+        "href": "/laxmimerit/elasticsearch-ltr-py"
+      },
+      {
+        "text": "Saluev/elasticsearch-ltr-py",
+        "href": "/Saluev/elasticsearch-ltr-py"
+      },
+      {
+        "text": "2",
+        "href": "/laxmimerit/elasticsearch-ltr-py/network/members"
+      },
+      {
+        "text": "speaker-recognition",
+        "href": "/laxmimerit/speaker-recognition"
+      },
+      {
+        "text": "manishpandit/speaker-recognition",
+        "href": "/manishpandit/speaker-recognition"
+      },
+      {
+        "text": "6",
+        "href": "/laxmimerit/speaker-recognition/network/members"
+      },
+      {
+        "text": "docker-cheat-sheet",
+        "href": "/laxmimerit/docker-cheat-sheet"
+      },
+      {
+        "text": "wsargent/docker-cheat-sheet",
+        "href": "/wsargent/docker-cheat-sheet"
+      },
+      {
+        "text": "3,836",
+        "href": "/laxmimerit/docker-cheat-sheet/network/members"
+      },
+      {
+        "text": "aws-shell",
+        "href": "/laxmimerit/aws-shell"
+      },
+      {
+        "text": "awslabs/aws-shell",
+        "href": "/awslabs/aws-shell"
+      },
+      {
+        "text": "593",
+        "href": "/laxmimerit/aws-shell/network/members"
+      },
+      {
+        "text": "Next",
+        "href": "https://github.com/laxmimerit?after=Y3Vyc29yOnYyOpK0MjAxOS0xMi0xMVQwMjozNTozN1rOEUDFNQ%3D%3D&tab=repositories"
+      },
+      {
+        "text": "",
+        "title": "GitHub",
+        "href": "https://github.com"
+      },
+      {
+        "text": "Terms",
+        "href": "https://github.com/site/terms"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://github.com/site/privacy"
+      },
+      {
+        "text": "Security",
+        "href": "https://github.com/security"
+      },
+      {
+        "text": "Status",
+        "href": "https://githubstatus.com/"
+      },
+      {
+        "text": "Help",
+        "href": "https://docs.github.com"
+      },
+      {
+        "text": "Contact GitHub",
+        "href": "https://github.com/contact"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://github.com/pricing"
+      },
+      {
+        "text": "API",
+        "href": "https://docs.github.com"
+      },
+      {
+        "text": "Training",
+        "href": "https://services.github.com"
+      },
+      {
+        "text": "Blog",
+        "href": "https://github.blog"
+      },
+      {
+        "text": "About",
+        "href": "https://github.com/about"
+      },
+      {
+        "text": "Privacy Statement",
+        "href": "https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies"
+      }
+    ]
+  },
+  "opengraph": {
+    "og:image": "https://avatars2.githubusercontent.com/u/16714612?s=400&u=60b8cc01ad4c54faa115a9b4a34a97143cacf0ce&v=4",
+    "og:site_name": "GitHub",
+    "og:type": "profile",
+    "og:title": "laxmimerit - Overview",
+    "og:url": "https://github.com/laxmimerit",
+    "og:description": "Lead Data Scientist.  Know more\r\nhttps://kgptalkie.com - laxmimerit"
+  },
+  "twittercard": {
+    "twitter:image:src": "https://avatars2.githubusercontent.com/u/16714612?s=400&u=60b8cc01ad4c54faa115a9b4a34a97143cacf0ce&v=4",
+    "twitter:site": "@github",
+    "twitter:card": "summary",
+    "twitter:title": "laxmimerit - Overview",
+    "twitter:description": "Lead Data Scientist.  Know more\r\nhttps://kgptalkie.com - laxmimerit"
+  },
+  "oembed": {}
+}
